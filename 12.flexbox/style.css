@@ -1,0 +1,27 @@
+.container {
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.flex {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    width: 30%;
+    background-color: blue;
+    height: 100px;
+    margin: 10px;
+
+}
+.satu {
+    flex: 1;
+}
+.dua {
+    flex: 2;
+}
